@@ -1,3 +1,4 @@
 exports.myDateTime1 = function () {
-    return Date();
+    var a ="teste";
+    return a;
   };
